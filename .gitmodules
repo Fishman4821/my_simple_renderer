@@ -1,0 +1,3 @@
+[submodule "my_modular_graphical_interface"]
+	path = my_modular_graphical_interface
+	url = https://github.com/Fishman4821/my_modular_graphical_interface
